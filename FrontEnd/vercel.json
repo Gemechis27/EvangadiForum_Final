@@ -9,6 +9,6 @@
     }
   ],
   "env": {
-    "VITE_BASE_URL": "https://evangadi-forum-backend-latest.onrender.com"
+    "VITE_BASE_URL": "https://evangadiforumfinal-backend.onrender.com"
   }
 }
